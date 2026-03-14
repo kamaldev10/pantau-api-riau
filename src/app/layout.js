@@ -40,14 +40,14 @@ export const metadata = {
     title: "PantauApi Riau - Sistem Deteksi Dini Bahaya Lingkungan",
     description:
       "Lindungi Riau dari kabut asap. Cek sebaran titik api terbaru di lahan gambut secara instan.",
-    url: "https://pantauapi-riau.vercel.app", // Ganti dengan URL asli Anda nanti
+    url: "https://pantauapi-riau.vercel.app",
     siteName: "PantauApi Riau",
     locale: "id_ID",
     type: "website",
     // Pastikan Anda menaruh gambar preview di folder /public/og-image.jpg
     images: [
       {
-        url: "/og-image.jpg",
+        url: "/og-image.png",
         width: 1200,
         height: 630,
         alt: "Dashboard PantauApi Riau",
