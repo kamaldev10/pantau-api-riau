@@ -62,7 +62,7 @@ Di mana:
     ```
 
 3.  Setup Environment Variables (`.env.local`):
-    Dapatkan API Key di [NASA FIRMS](https://firms.modaps.eosdis.nasa.gov/api/config/)
+    Dapatkan API Key di [NASA FIRMS](https://firms.modaps.eosdis.nasa.gov/api/map_key/)
 
     ```env
     NASA_FIRMS_KEY=your_api_key_here
