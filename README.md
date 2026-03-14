@@ -112,4 +112,4 @@ Optimasi antarmuka untuk penggunaan di lapangan oleh relawan dan masyarakat.
 
 ---
 
-© 2026 PantauApi Riau. Dikembangkan untuk masa depan Riau yang bebas asap. 🌿
+© 2026 Ali Musthafa Kamal. Dikembangkan untuk masa depan Riau yang bebas asap. 🌿

@@ -224,7 +224,7 @@ export default function HomePage() {
 
             <div className="flex flex-col justify-center items-center md:items-end px-4">
               <p className="text-[10px] font-black text-slate-300 uppercase tracking-[0.3em] mb-2">
-                &copy; 2026 PantauApi Riau
+                &copy; 2026 Ali Musthafa Kamal
               </p>
               <p className="text-[9px] font-medium text-slate-400 text-center md:text-right">
                 Dikembangkan untuk Deteksi Dini Bahaya Lingkungan <br />
