@@ -1,0 +1,21 @@
+{
+  "name": "PantauApi Riau",
+  "short_name": "PantauApi",
+  "description": "Sistem Deteksi Dini Karhutla Riau",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ea580c",
+  "icons": [
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
