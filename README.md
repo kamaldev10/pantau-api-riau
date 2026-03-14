@@ -1,10 +1,24 @@
-# 🔥 PantauApi Riau - Early Warning System Karhutla
+# <p align="center" ><img src="public/logo.png" width="3%" /> PantauApi Riau</p>
 
-[![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![Leaflet](https://img.shields.io/badge/Leaflet-199903?style=for-the-badge&logo=leaflet&logoColor=white)](https://leafletjs.com/)
+<p align="center">
+<strong>Sistem Peringatan Dini Karhutla Berbasis AI & Data Satelit NASA</strong>
+</p>
 
-**PantauApi Riau** adalah aplikasi berbasis website yang dirancang untuk deteksi dini bahaya kebakaran hutan dan lahan (Karhutla) di Provinsi Riau. Dengan memanfaatkan data satelit NASA secara real-time dan pengolahan data berbasis AI sederhana, aplikasi ini memberikan visualisasi risiko yang mudah dipahami oleh masyarakat dan petugas lapangan.
+<p align="center">
+<a href="https://pantauapi-riau.vercel.app"><strong>Live Demo »</strong></a>
+<br />
+<br />
+<img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Leaflet-199903?style=for-the-badge&logo=leaflet&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
+
+---
+
+## 📌 Deskripsi Proyek
+
+PantauApi Riau adalah solusi digital untuk mitigasi bencana kebakaran hutan dan lahan (Karhutla) di Provinsi Riau. Aplikasi ini mengintegrasikan data titik panas (hotspot) dari satelit secara real-time dan menggunakan logika AI Scoring untuk memberikan penilaian risiko yang akurat bagi masyarakat dan petugas di lapangan.
 
 ---
 
@@ -43,6 +57,28 @@ Di mana:
 - $T_{norm}$: Suhu sensor satelit yang telah dinormalisasi terhadap ambang batas kritis (300K - 380K).
 - $C_{norm}$: Tingkat kepercayaan satelit (0 - 1).
 - Bobot $70\%$ diberikan pada suhu karena merupakan indikator paling valid di lahan gambut Riau.
+
+---
+
+## 📷 Dokumentasi Produk
+
+### Desktop View
+
+Tampilan dashboard luas untuk pemantauan intensif oleh petugas admin atau analis.
+
+<p align="center">
+<img src="public/screenshots/desktop_view.png" width="45%" />
+<img src="public/screenshots/desktop_view2.png" width="45%" />
+</p>
+
+### Mobile View & PWA
+
+Optimasi antarmuka untuk penggunaan di lapangan oleh relawan dan masyarakat.
+
+<p align="center">
+<img src="public/screenshots/mobile_view.png" width="22%" />
+<img src="public/screenshots/mobile_view2.png" width="22%" />
+</p>
 
 ---
 
